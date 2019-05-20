@@ -26,8 +26,7 @@ sum1=sum1+x[j][i];
 printf("sum of row %d is %d\n",i+1,sum);
 printf("sum of coloumn %d is %d\n",i+1,sum1);
 }
-
-
+printf("\n);
 
 
 
